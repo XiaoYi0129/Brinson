@@ -1,2 +1,3 @@
 # Brinson
 原始数据未上传，将原始数据文件夹命名为HSI与HSCEI并放入项目中即可运行
+其中main用于处理数据，chart_line画三个效应变化折线图，chart_bar画基准与组合的收益柱状图
